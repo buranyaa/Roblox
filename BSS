@@ -3,7 +3,7 @@
 local selectedrow = 5 -- Vertical Line
 local selectedline = 4 -- Horizontal Line
 local selectedegg = "RoyalJelly" --Diamond, Gold, Silver, RoyalJelly 
-local webhookurl = "" --Ur Webhook Url
+local webhookurl = "https://discord.com/api/webhooks/1169902767695998998/34qLvfFCSKo5Rarc1AJlei-P2g9atNPLlyP0mISH6_6aJwDv26nX4wPVZ4XtvBwjLebK" --Ur Webhook Url
 
 -- Waits Until The Game Loads
 repeat
